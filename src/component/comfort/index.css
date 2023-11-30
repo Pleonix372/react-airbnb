@@ -1,0 +1,14 @@
+.comfort {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.comfort__list {
+  display: grid;
+  gap: 12px;
+}
+
+.false {
+  display: none;
+}
